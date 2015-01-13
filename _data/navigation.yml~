@@ -1,0 +1,12 @@
+# Site navigation links
+
+-title: Blog
+ url: /blog/
+
+-title: Contos
+ url: /contos/
+
+-title: Sobre
+ url: /about/
+
+
